@@ -34,14 +34,10 @@ body
 	}
 
 
-#Picture1 {
-    display: none;
-    border:1px solid #000;
-    height:30px;
-    width:290px;
-    margin-left:10px;
+.caption
+{
+display: none;
+color:black;    
+position: absolute;
 }
-
-a:hover + div {
-    display: block;
-}​
+a:hover .caption { display: block; }
