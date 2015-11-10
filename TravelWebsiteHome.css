@@ -26,3 +26,22 @@ body
 #navigation a:hover  
 	{color: grey;
 	} 
+
+#Join_Mailing_List
+	{position: absolute;
+	 text-align: center;
+	 bottom: 25%;
+	}
+
+
+#Picture1 {
+    display: none;
+    border:1px solid #000;
+    height:30px;
+    width:290px;
+    margin-left:10px;
+}
+
+a:hover + div {
+    display: block;
+}​
