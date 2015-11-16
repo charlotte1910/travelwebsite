@@ -1,9 +1,17 @@
 h1
-	{font-family: 'Indie Flower', cursive;
+	{font-family: 'Pacifico', cursive;
 	 text-align: center;
 	 position: relative;
 	 top: 25%;
 	 font-weight: bolder;
 	 font-size: 3em;
 	 color:black;
+	}
+
+p
+	{
+	font-family: 'Indie Flower', cursive;
+	text-align: center; 
+	position: relative;
+
 	}
