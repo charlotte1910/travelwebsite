@@ -4,6 +4,7 @@
 	<title>Home Page</title>
 	<link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="TravelWebsiteHome.css"/>
+	<script src="TravelWebsite-home.js"></script>
 </head>
 
 <body>
@@ -21,16 +22,14 @@
 
 <br><br><br><br>
 
-<div id="About_Us">
-<p>
-
-<table>
+<div id="About_Us" style="text-align:center">
+<table style="display: inline-table;">
 <tbody>
 <tr>
 
-<td> <img src="http://stylestodo.com/wp-content/uploads/2015/08/flower8.jpg" height= "100px"> </td>
-<td> <img src="http://stylestodo.com/wp-content/uploads/2015/08/flower8.jpg" height= "100px"> </td>
-<td> <img src="http://stylestodo.com/wp-content/uploads/2015/08/flower8.jpg" height= "100px"> </td>
+<td> <img src="http://stylestodo.com/wp-content/uploads/2015/08/flower8.jpg" height= "100px" border="1em solid white"> </td>
+<td> <img src="http://stylestodo.com/wp-content/uploads/2015/08/flower8.jpg" height= "100px" border="1em solid white"> </td>
+<td> <img src="http://stylestodo.com/wp-content/uploads/2015/08/flower8.jpg" height= "100px" border="1em solid white"> </td>
 
 </tr>
 
@@ -64,7 +63,7 @@
 <span class ="row_1">
 <a href="#">
 <div class = "caption">Sydney Garden Canals<br>Bath, England </div>
-<img src="Canal.jpg" height = "100px"/>
+<img src="Images/Canal.jpg" height = "100px"/>
 </a>
 </span>
 
@@ -80,9 +79,14 @@
 
 
 <div id="Join_Mailing_List">
-	<input type="email" placeholder="Your email ">
-	<input type="submit">
-	
+	<p>We are a relatively new, up and coming website, but we have lots of ideas for the future. If you would like to be kept in touch with when we have new content uploaded, and for when we are ready for contruibutions from other budding travellers, please enter your email address below:</p>
+	<input type="email" placeholder="Your email address">
+	<input type="submit" id="dialog">
+</div>
+
+<div id="divContentToPopup">Thanks!</div>
+
+	<!-- Use JS to have a pop up when button clicked to say thanks. code above doesnt work -->
 
 </div>
 
