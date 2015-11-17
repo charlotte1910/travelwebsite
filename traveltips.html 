@@ -4,9 +4,49 @@
 <head>
 	<link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'> 
 	<link rel="stylesheet" type="text/css" href="traveltips.css"/>
+
+	<title>Travel Tips</title>
 </head>
 
+<style type="text/css">
+
+	<link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'> 
+
+</style>
+
 <body>
+
+
+
+	<h1>Plan it ahead</h1>
+	        
+ 
+	<p>
+	Sounds way too basic but booking an airbnb is not difficult and makes it way less of a hassle than wandering around town trying to find a room for the night, especially if you are on a budget. 
+	 </p>
+
+	<h1>Buy different travel guides</h1>
+<p>
+
+Having 0 is not a recommendation because Internet will let you down abroad, and we like to think that having paper travel guides makes it vintage and fancy. It lets you weigh opportunities in and decide for yourself instead of reading 9394348 trip advisors comments. 
+
+</p>
+
+<h1>Passport</h1>
+
+<p>
+Do not carry your passport with you all the time. It may go against a general feeling of security, but abroad and especially in countries where tourists might be the target of robberies, it is your person rather than your hotel that they will see first. So carry a photocopy obviously, and as little money as you need. 
+</p>
+
+<h1>Respect</h1>
+
+<p> Respect the locals- and when we say respect them, it means DO NOT TAKE PICTURES OF PEOPLE AS IF THEY WERE ANIMALS OR MUSEUM PAINTINGS. Think about this African motto: taking a picture of someone is like capturing their soul. So imagine if you do it without their authorization. 
+</p>
+
+<h1>Photos</h1>
+<p>Linking to photos and stuff- try to live a little. What matters most is what you will have in your head. Leave your phone at the hotel (or in the tree house maybe?) except if you think you really need it, don’t be that guy who’s walking around looking for the wifi in every restaurant he goes. 
+</p>
+<a href="file:///Users/Victo/Documents/Codefirst%20Girls/travelwebsite/TravelWebsite-home.html" title="Back to the Home page"><b>HOME</b></a> 
 
 </body>
 </html>
