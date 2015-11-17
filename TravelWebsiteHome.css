@@ -36,8 +36,6 @@ body
 	 text-align: center;
 	 bottom: 25%;
 	}
-
-
 .caption
 {
 display: none;
@@ -45,3 +43,18 @@ color:black;
 position: absolute;
 }
 a:hover .caption { display: block; }
+
+h1
+{text-align: center;
+ font-family: 'Indie Flower', cursive}
+ font-size:30px;
+}
+body
+p
+{text-align: center;
+font-family: 'Indie Flower', cursive}
+font-size: 20px;
+}
+.img-circle {
+    border-radius: 50%;
+}
