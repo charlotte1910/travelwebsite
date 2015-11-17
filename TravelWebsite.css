@@ -27,7 +27,14 @@ li
 	 text-align: center;
 	}
 
+<<<<<<< HEAD
+p	 {
+	font-family: 'Poiret One', cursive;
+	text-align: left;	
+}	
+=======
 h1
 	{font-family: 'Indie Flower', cursive;
 	text-align: right;
 	}	
+>>>>>>> master
