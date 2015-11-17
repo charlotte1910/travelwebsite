@@ -15,11 +15,23 @@ font-size:50px;
 }
 {text-align: centre
 }
+p {
+    padding-top: 0px;
+    padding-right: 30px;
+    padding-bottom: 0px;
+    padding-left: 80px;
+}
+section { 
+    display: block;
+}
 ul
 {font-family: 'Indie Flower', cursive}
 font-size:50px;
 }
 {text-align: centre
+}
+.img-circle {
+    border-radius: 50%;
 }
 
 body 
@@ -28,8 +40,8 @@ background: -webkit-linear-gradient(to left, #43cea2 , #185a9d); /* Chrome 10-25
 background: linear-gradient(to left, #43cea2 , #185a9d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
         }
 
-<img class="img-circle" src="Victoria.jpg">
-<img class="img-circle" src="Charlotte.jpg">
-<img class="img-circle" src="Ioanna.jpg">
+<img src="Victoria.jpg">
+<img src="Charlotte.jpg">
+<img src="Ioanna.jpg">
 
-<img src="Victoria.jpg" class="img-circle">
+
