@@ -11,7 +11,6 @@ body
 	 background-size: cover;
 	 opacity: 0.7;
 	}
-
 #navigation 
 	{position: fixed;
 	 top: 0;
@@ -65,4 +64,14 @@ font-size: 20px;
 .img-circle {
     border-radius: 50%;
 }
+<<<<<<< Updated upstream
+=======
+a {text-align: right;
+font-family: 'Indie Flower', cursive;
+font-size:20px;
+padding-top: 250px
+padding-right: 50px;
+position: 
+}
+>>>>>>> Stashed changes
 
