@@ -1,0 +1,20 @@
+h1 
+	{
+	font-family: 'Indie Flower', cursive;
+	font-size:50px;
+	}
+
+
+body 
+	{
+background: #003973 
+background: -webkit-linear-gradient(to left, #003973 , #E5E5BE); 
+background: linear-gradient(to left, #003973 , #E5E5BE);     
+
+	}
+
+script
+	{
+	position: absolute;
+	padding: 2cm 4cm 1cm 4cm;
+	}
