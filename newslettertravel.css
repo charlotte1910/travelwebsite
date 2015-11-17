@@ -13,8 +13,17 @@ background: linear-gradient(to left, #003973 , #E5E5BE);
 
 	}
 
-script
+a script
 	{
 	position: absolute;
 	padding: 2cm 4cm 1cm 4cm;
 	}
+
+a
+{
+	font-family: 'Indie Flower', cursive;
+	font-size:50px;
+	color: black;
+	position: absolute;
+	padding: 5cm 0cm 1cm 0cm;;
+}
